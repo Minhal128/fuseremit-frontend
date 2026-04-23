@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer base {
+    .font-manrope {
+        font-family: var(--font-manrope), sans-serif;
+    }
+}
